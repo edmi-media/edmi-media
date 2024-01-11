@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ffacebook.com%2FGenesisTeamIntl&style=for-the-badge&logo=facebook&logoColor=0866FF&label=Facebook&labelColor=white&color=0866FF" />
-  <img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Finstagram.com%2Fgenesisteamintl&style=for-the-badge&logo=instagram&logoColor=962fbf&label=Facebook&labelColor=white&color=962fbf" />
-  <img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ftiktok.com@ekunoladaviesministry&style=for-the-badge&logo=facebook&logoColor=00000&label=Facebook&labelColor=white&color=00000" />
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fweb.facebook.com%2FGenesisTeamIntl&style=for-the-badge&logo=facebook&logoColor=0866FF&label=Genesis%20Team%20Intl&labelColor=white&color=white" />
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fgenesisteamintl&style=for-the-badge&logo=instagram&logoColor=962fbf&label=Genesis%20Team%20Intl&labelColor=white&color=white" />
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.tiktok.com%2F%40ekunoladaviesministry&style=for-the-badge&logo=tiktok&logoColor=black&label=Ekunola%20Davies%20Ministry%20Intl&labelColor=white&color=white" />
 </p>
